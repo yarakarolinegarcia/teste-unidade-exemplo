@@ -27,7 +27,7 @@ public class TesteDivisao {
     public int operandoDois;
 
     @Parameterized.Parameter(2)
-    public int resultado;
+    public double resultado;
 
     @Test
     public void teste(){
