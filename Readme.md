@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/yarakarolinegarcia/teste-unidade-exemplo.svg?branch=master)](https://travis-ci.org/yarakarolinegarcia/teste-unidade-exemplo)
+
 # Exemplo de como usar testes de unidade com JUnit 4
 
 Nesse repositório tem exemplos de como fazer testes de unidade com [parâmetros](https://github.com/junit-team/junit4/wiki/parameterized-tests), algo que facilita quando se deseja testar vários valores.
